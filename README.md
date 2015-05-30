@@ -14,5 +14,6 @@ and all its dependencies.
  3. In *SimpleTest* adjust the paths to the SoapUI project and the .graphml file representing the system
  4. Run *SimpleTest* in your IDE
 
- ## Tools used
- Please check the Graphwalker project for more info GraphWalker/graphwalker-project
+## Tools used
+Please check the [Graphwalker project](https://github.com/GraphWalker/graphwalker-project) for more info.
+
