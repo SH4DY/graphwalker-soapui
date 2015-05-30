@@ -1,0 +1,14 @@
+{
+    "request": {
+        "method": "POST",
+        "url": "/api/login",
+        "bodyPatterns": [
+        	{"equalToJson": "{ \"username\": \"customer1\", \"password\": \"pword\" }",
+        	 "jsonCompareMode": "LENIENT" }
+        ]
+    },
+    "response": {
+        "status": 200,
+        "body": "LOGGED IN\n"
+    }
+}
